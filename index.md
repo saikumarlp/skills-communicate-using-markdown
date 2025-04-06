@@ -4,12 +4,9 @@
 #### Fourth Head
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
-$git init
-sample git init
-
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-``` python
-hello = range(20)
-for i in hello:
-    print("hello world")
+``` javascript 
+var myVar = "Hello world";
 ```
