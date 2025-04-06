@@ -13,3 +13,6 @@ var myVar = "Hello, world!";
 ``` python
 print("hello world")
 ```
+- [x] open Github
+- [ ] explore
+- [ ] close
